@@ -18,7 +18,7 @@ app.listen(8000, () => {
 function creabotpls(){
 
     const bot = mineflayer.createBot({
-    host: 'nyawitsmp.mcsh.io', // Server IP
+    host: 'sikmasmp.mcsh.io', // Server IP
     port: 25565,       // Server Port
     username: `oppurtnitybot22`, // igntest${Number(Math.random() * (1000, 9999)).toFixed(0)}
     version: '1.20.1'  // Optional: specify version
